@@ -33,7 +33,9 @@ public class HappyNumber {
         ArrayList<Integer> set = new ArrayList<>();
         while (n != 1 && !set.contains(n)) {
             set.add(n);
-            n = getSum(n);
+            n = getSum(n); 
+            System.out.println(n);
+             
         }
         return n == 1;
     }

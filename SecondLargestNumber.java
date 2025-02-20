@@ -2,6 +2,7 @@
 /*
  Definition : Write a Java program to find the second largest element in an array of integers.
  */
+
 // import java.lang.reflect.Array;
 // import java.util.ArrayList;
 // import java.util.Scanner;
@@ -14,6 +15,7 @@
 //             arr[i] = sc.nextInt();
 //         }
 //         int max = arr[0];
+        // first convert in ascending order
 //         for (int i = 0; i < arr.length; i++) {
 //             for (int j = i + 1; j < arr.length; j++) {
 //                 if (arr[j] > arr[i]) {
