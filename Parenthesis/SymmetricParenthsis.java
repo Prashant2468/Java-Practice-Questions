@@ -17,7 +17,7 @@ class SymmetricParenthsis {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the String (only Parenthesis) : ");
+        System.out.println("Enter the String (Enter only Parenthesis ) : ");
         String s = sc.nextLine();
         Stack<Character> stack = new Stack<>();
         for (int i = s.length() / 2; i < s.length(); i++) {
