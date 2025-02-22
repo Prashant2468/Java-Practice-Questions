@@ -8,15 +8,16 @@ Constraints:
 The input string will only contain brackets ((), {}, []).
 The length of the string is even (for simplicity).
 The program should use a stack to validate bracket symmetry.
-*/
+ */
 
 // Solution : 1
-
 import java.util.*;
+
 class SymmetricParenthsis {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the String : ");
+        System.out.println("Enter the String (only Parenthesis) : ");
         String s = sc.nextLine();
         Stack<Character> stack = new Stack<>();
         for (int i = s.length() / 2; i < s.length(); i++) {
@@ -57,7 +58,6 @@ class SymmetricParenthsis {
 }
 
 // Solution : 1
-
 // import java.util.*;
 // class SymmetricString {
 //     public static boolean isSymmetric(String s) {
