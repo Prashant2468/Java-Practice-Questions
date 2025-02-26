@@ -9,6 +9,7 @@ This repository contains a collection of Java interview questions based on Array
 - [String Based Program](#string-based-programs)
 - [Sorting Programs](#sorting)
 - [Searching Programs](#searching)
+- [Pattern Programs](#pattern)
 
 ---
 
@@ -27,8 +28,8 @@ This repository contains a collection of Java interview questions based on Array
 
 | No. | Question Title | Link |
 |----|--------------|------|
-| 1  | Find Peek Element From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/PeekElement.java) |
-| 1  | Find The Second Laragest Number From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/SecondLargestNumber.java) |
+| 1  | Find Peek Element From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Numbers/PeekElement.java) |
+| 1  | Find The Second Laragest Number From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Numbsers/SecondLargestNumber.java) |
 
 ---
 
@@ -36,7 +37,7 @@ This repository contains a collection of Java interview questions based on Array
 
 | No. | Question Title | Link |
 |----|--------------|------|
-| 1  | What is Java? | [View](questions/what-is-java.md) |
+| 1  | String| [View](questions/what-is-java.md) |
 
 ---
 
@@ -55,3 +56,13 @@ This repository contains a collection of Java interview questions based on Array
 | 1  | What is Java? | [View](questions/what-is-java.md) |
 
 ---
+
+
+## Patterns
+
+| No. | Question Title | Link |
+|----|--------------|------|
+| 1  | SymmetricParenthsis | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Parenthesis/SymmetricParenthsis.java) |
+
+---
+
