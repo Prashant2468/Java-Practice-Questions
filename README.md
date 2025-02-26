@@ -17,9 +17,9 @@ This repository contains a collection of Java interview questions based on Array
 
 | No. | Question Title | Link |
 |----|--------------|------|
-| 1  | Happy Number Program | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/HappyNumber.java) |
-| 2  | Lucky Number Program | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/LuckyNumber.java) |
-| 3  | Armstrong Number Program | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/ArmstrongNumber.java) |
+| 1  | Happy Number Program | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Numbers/HappyNumber.java) |
+| 2  | Lucky Number Program | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Numbers/LuckyNumber.java) |
+| 3  | Armstrong Number Program | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Numbers/ArmstrongNumber.java) |
 
 ---
 
