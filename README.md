@@ -18,23 +18,21 @@ This repository contains a collection of Java interview questions based on Array
 | No. | Question Title | Link |
 |----|--------------|------|
 | 1  | Happy Number Program | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/HappyNumber.java) |
-
+| 2  | Lucky Number Program | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/LuckyNumber.java) |
+| 3  | Armstrong Number Program | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/ArmstrongNumber.java) |
 
 ---
 
 ## Array Based Programs
-
 
 | No. | Question Title | Link |
 |----|--------------|------|
 | 1  | Find Peek Element From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/PeekElement.java) |
 | 1  | Find The Second Laragest Number From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/SecondLargestNumber.java) |
 
-
 ---
 
 ## String Based Programs
-
 
 | No. | Question Title | Link |
 |----|--------------|------|
@@ -44,7 +42,6 @@ This repository contains a collection of Java interview questions based on Array
 
 ## Sorting
 
-
 | No. | Question Title | Link |
 |----|--------------|------|
 | 1  | What is Java? | [View](questions/what-is-java.md) |
@@ -52,7 +49,6 @@ This repository contains a collection of Java interview questions based on Array
 ---
 
 ## Searching
-
 
 | No. | Question Title | Link |
 |----|--------------|------|
