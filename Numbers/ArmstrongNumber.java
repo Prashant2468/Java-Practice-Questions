@@ -1,4 +1,8 @@
-
+/*
+    Definition : Check the inputed number is armstrong number or not
+    (Armstrong) ->Armstrong numbers means the number whose sum of the ,cube of the all digits is same as number itself
+    Example : 153 = (1*1*1) + (5*5*5) + (3*3*3) = 153
+*/
 import java.util.Scanner;
 
 public class ArmstrongNumber {
