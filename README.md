@@ -57,12 +57,11 @@ This repository contains a collection of Java interview questions based on Array
 
 ---
 
-
 ## Pattern
 
 | No. | Question Title | Link |
 |----|--------------|------|
-| 1  | SymmetricParenthsis | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Parenthesis/SymmetricParenthsis.java) |
+| 1  | SymmetricParenthsis ({}) , {[()]} | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Parenthesis/SymmetricParenthsis.java) |
 
 ---
 
