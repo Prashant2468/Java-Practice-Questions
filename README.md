@@ -58,7 +58,7 @@ This repository contains a collection of Java interview questions based on Array
 ---
 
 
-## Patterns
+## Pattern
 
 | No. | Question Title | Link |
 |----|--------------|------|
