@@ -30,7 +30,7 @@ This repository contains a collection of Java interview questions based on Array
 |----|--------------|------|
 | 1  | Find Peek Element From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/PeekElement.java) |
 | 2  | Find The Second Laragest Number From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/SecondLargestNumber.java) |
-| 3  | Find The Second Laragest Number From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/MajorityElement.java) |
+| 3  | Write a program to find majority element from the given array | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/MajorityElement.java) |
 
 ---
 
