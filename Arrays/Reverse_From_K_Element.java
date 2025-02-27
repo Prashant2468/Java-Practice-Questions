@@ -1,4 +1,9 @@
-
+/*
+ * Definition : Rotate the Arrays from the given kth element
+ * Example : 
+ * Input : [1,2,3,4,5,6] , k=2
+ * Output : [5,6,1,2,3,4]
+ */
 import java.util.Scanner;
 
 public class Reverse_From_K_Element {
