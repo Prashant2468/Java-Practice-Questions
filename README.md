@@ -29,7 +29,8 @@ This repository contains a collection of Java interview questions based on Array
 | No. | Question Title | Link |
 |----|--------------|------|
 | 1  | Find Peek Element From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Numbers/PeekElement.java) |
-| 1  | Find The Second Laragest Number From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Numbsers/SecondLargestNumber.java) |
+| 2  | Find The Second Laragest Number From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Numbsers/SecondLargestNumber.java) |
+| 3  | Find The Second Laragest Number From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Numbsers/MajorityElement.java) |
 
 ---
 
