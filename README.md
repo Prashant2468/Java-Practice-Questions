@@ -32,6 +32,7 @@ This repository contains a collection of Java interview questions based on Array
 | 2  | Find The Second Laragest Number From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/SecondLargestNumber.java) |
 | 3  | Write a program to find majority element from the given array | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/MajorityElement.java)|
 | 4  | Write a program that rotate array from the Kth element. | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/Rotate_from_kth_element) 
+| 5  | Find the middle element from the give array | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/FindMid.java) 
 
 ---
 
