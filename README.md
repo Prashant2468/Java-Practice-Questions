@@ -34,7 +34,7 @@ This repository contains a collection of Java interview questions based on Array
 | 4  | Write a program that rotate array from the Kth element. | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/Rotate_from_kth_element) 
 | 5  | Find the middle element from the give array | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/FindMid.java) 
 | 6  | Find the Frequency of each element in the aray | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/CountFrequency.java) 
-
+| 6  | Find missing number from the given array | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/MissingNumber.java) 
 ---
 
 ## String Based Programs
