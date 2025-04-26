@@ -28,14 +28,15 @@ This repository contains a collection of Java interview questions based on Array
 
 | No. | Question Title | Link |
 |----|--------------|------|
-| 1  | Find Peek Element From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/PeekElement.java) |
-| 2  | Find The Second Laragest Number From The Array| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/SecondLargestNumber.java) |
-| 3  | Write a program to find majority element from the given array | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/MajorityElement.java)|
+| 1  | Find the peek element from the array.| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/PeekElement.java) |
+| 2  | Find the second largest from the array.| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/SecondLargestNumber.java) |
+| 3  | Write a program to find majority element from the given array. | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/MajorityElement.java)|
 | 4  | Write a program that rotate array from the Kth element. | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/Rotate_from_kth_element) 
 | 5  | Find the middle element from the give array | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/FindMid.java) 
 | 6  | Find the Frequency of each element in the aray | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/CountFrequency.java) 
 | 7  | Find missing number from the given array | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/MissingNumber.java) 
 | 8  | Find unique element from the given array | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/FindUniqueElement.java) 
+| 9  | Write a program to move all zeros at the end of array. | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/MoveAllZerosToEnd.java) 
 
 ---
 
