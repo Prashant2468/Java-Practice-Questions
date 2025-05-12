@@ -36,7 +36,9 @@ This repository contains a collection of Java interview questions based on Array
 | 6  | Find the Frequency of each element in the aray | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/CountFrequency.java) 
 | 7  | Find missing number from the given array | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/MissingNumber.java) 
 | 8  | Find unique element from the given array | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/FindUniqueElement.java) 
-| 9  | Write a program to move all zeros at the end of array. | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/MoveAllZerosToEnd.java) 
+| 9  | Write a program to move all zeros at the end of array. | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/MoveAllZerosToEnd.java)
+| 10  | Write a program to find the next Permutations from the given array. | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/NextPermutations.java)
+
 
 ---
 
