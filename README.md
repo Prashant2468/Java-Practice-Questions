@@ -46,8 +46,10 @@ This repository contains a collection of Java interview questions based on Array
 
 | No. | Question Title | Link |
 |----|--------------|------|
-| 1  | Write a program to add 2 binary numbers. | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Strings/AddBinaryNumbers.java)
-| 2  | check the string is Anagram or Not | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Strings/AnagramString.java)
+
+| 1  | Write program to convert the given string into Integer | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Strings/AtoiStringToInteger.java)
+| 2  | Write a program to add 2 binary numbers. | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Strings/AddBinaryNumbers.java)
+| 3  | check the string is Anagram or Not | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Strings/AnagramString.java)
 
 
 ---
