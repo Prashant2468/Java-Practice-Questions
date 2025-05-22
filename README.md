@@ -51,7 +51,7 @@ This repository contains a collection of Java interview questions based on Array
 | 3  | check the string is Anagram or Not (Anagram) | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Strings/AnagramString.java)
 | 4  | find first non-repeating character from the given string (Non Repeating Character)| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Strings/NonRepeatingChar.java)
 | 5  | find the index from where given pattern is match in given String (Search Pattern (KMP-Algorithm)) | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Strings/SearchPattern.java)
-| 6  | find the minimum number of characters that make given string palindrom from front. (Min Chars to Add for Palindrome) | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Strings/MinCharForPlindrome.java)
+| 6  | find the minimum number of characters that make given string palindrom from front. (Min Chars to Add for Palindrome) | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Strings/MinCharForPalindrome.java)
 | 7  | check if the s2 string is rotated version of string s1 or not (Strings Rotations of Each Other) | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Strings/RotatedString.java)
 
 
