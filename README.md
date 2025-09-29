@@ -39,6 +39,10 @@ This repository contains a collection of Java interview questions based on Array
 | 9  | Write a program to move all zeros at the end of array. |Move all zeros| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/MoveAllZerosToEnd.java)
 | 10  | Write a program to find the next Permutations from the given array.|Next Permutations | [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/NextPermutations.java)
 | 11  | Write a program to find the multiple duplicates elements from the given array. |Duplicate Elements| [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/FindMultipleDuplicates.java)
+| 12  | Minimize operations to equalize array elements. [View](https://github.com/Prashant2468/Java-Practice-Questions/blob/main/Arrays/LevelUpTheNumbers.java)
+
+
+
 
 
 
